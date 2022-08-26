@@ -14,4 +14,4 @@ Types of Player are:
 
 For example, if you want to play with Alpha-Beta player, you must initialize:
 <br />    
-game = Game(Player, RandomGreedyPlayer)
+`game = Game(Player, RandomGreedyPlayer)`
