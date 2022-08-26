@@ -1,6 +1,4 @@
 # Playing Othello Using Alpha-Beta Pruning Algorithm
-
-## Summary
 In this project, you can play Othello using Alpha-Beta Pruning
 
 ## How to Run:
